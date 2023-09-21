@@ -1,0 +1,2 @@
+# odev
+veri yapıları
